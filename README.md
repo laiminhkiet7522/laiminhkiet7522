@@ -132,7 +132,15 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=laiminhkiet7522&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=LaiMinhKiet7522&show_icons=true&theme=transparent"
+    alt="laiminhkiet7522"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMinhKiet7522&langs_count=8"
     alt="laiminhkiet7522"
   />
 </p>
