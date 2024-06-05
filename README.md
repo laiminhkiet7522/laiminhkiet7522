@@ -5,12 +5,12 @@
 - 👨‍💻 All of my projects are available at
 <a href="https://laiminhkiet7522.netlify.app/" target="blank">laiminhkiet7522.netlify.app</a>
 - 💬 Ask me about
-**php, laravel** 
+**PHP, LARAVEL** 
 - 📫 How to reach me **laiminhkiet07052002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/laiminhkiet7522" target="blank"
+  <a href="https://fb.com/laiminhkiet" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
