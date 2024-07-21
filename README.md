@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at
 <a href="https://laiminhkiet7522.netlify.app/" target="blank">laiminhkiet7522.netlify.app</a>
 - 💬 Ask me about
-**JAVASCRIPT,REACT JS, NODE JS**
+**JAVASCRIPT, REACT JS, NODE JS**
 - 📫 How to reach me **laiminhkiet07052002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +14,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="shakilahmed0369"
+      alt="laiminhkiet7522"
       height="30"
       width="40"
   /></a>
@@ -22,6 +22,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+      alt="react js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+      alt="node js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -34,17 +69,6 @@
     <img
       src="https://laravel.com/img/logomark.min.svg"
       alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
       width="40"
       height="40"
     />
