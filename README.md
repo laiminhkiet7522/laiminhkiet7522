@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT** 
 - 👨‍💻 All of my projects are available at
-<a href="https://laiminhkiet7522.netlify.app/" target="blank">laiminhkiet7522.netlify.app</a>
+<a href="https://laiminhkiet7522.netlify.app/" target="_blank">laiminhkiet7522.netlify.app</a>
 - 💬 Ask me about
 **JAVASCRIPT, REACT JS, NODE JS**
 - 📫 How to reach me **laiminhkiet07052002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/laiminhkiet" target="blank"
+  <a href="https://fb.com/laiminhkiet" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -35,7 +35,7 @@
   </a>
   <a href="https://react.dev/" target="_blank">
     <img
-      src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s"
       alt="react js"
       width="40"
       height="40"
