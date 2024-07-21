@@ -1,11 +1,11 @@
   <h1 align="center">Hi 👋, I'm Minh Kiet</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **PHP** 
+- 🌱 I’m currently learning **JAVASCRIPT** 
 - 👨‍💻 All of my projects are available at
 <a href="https://laiminhkiet7522.netlify.app/" target="blank">laiminhkiet7522.netlify.app</a>
 - 💬 Ask me about
-**PHP, LARAVEL** 
+**JAVASCRIPT,REACT JS, NODE JS**
 - 📫 How to reach me **laiminhkiet07052002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
