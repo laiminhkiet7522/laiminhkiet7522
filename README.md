@@ -1,156 +1,46 @@
-  <h1 align="center">Hi 👋, I'm Minh Kiet</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+# Minh Kiet's GitHub Profile 🚀
 
-- 🌱 I’m currently learning **JAVASCRIPT** 
-- 👨‍💻 All of my projects are available at
-<a href="https://laiminhkiet7522.netlify.app/" target="_blank">laiminhkiet7522.netlify.app</a>
-- 💬 Ask me about
-**JAVASCRIPT, REACT JS, NODE JS**
-- 📫 How to reach me **laiminhkiet07052002@gmail.com**
+Welcome to my GitHub playground! 👋 I'm Minh Kiet, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/laiminhkiet" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="laiminhkiet7522"
-      height="30"
-      width="40"
-  /></a>
-</p>
+## 🚀 Quick Overview
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s"
-      alt="react js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-      alt="node js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img
-      src="https://laravel.com/img/logomark.min.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+- 🔭 I work as a Full Stack Developer.
+- 👯 I’m looking to collaborate on open source projects or interesting ideas.
+- 💬 Ask me about anything! I'm happy to help.
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=LaiMinhKiet7522&show_icons=true&theme=transparent"
-    alt="laiminhkiet7522"
-  />
-</p>
+## 🔧 Technologies & Tools
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMinhKiet7522&langs_count=8"
-    alt="laiminhkiet7522"
-  />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+## 📈 GitHub Stats
+
+[![Minh Kiet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laiminhkiet7522&count_private=true&show_icons=true&theme=radical)](https://github.com/laiminhkiet7522)
+
+## 📊 My Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laiminhkiet7522&layout=compact&theme=radical)](https://github.com/laiminhkiet7522)
+
+## 🌟 Let's Connect
+
+- [Facebook](https://www.facebook.com/laiminhkiet)
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=laiminhkiet7522&color=brightgreen)
+
+Thanks for stopping by! 😊✨
+
+Happy Coding! 🚀
