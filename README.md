@@ -13,7 +13,7 @@ Welcome to my GitHub playground! 👋 I'm Minh Kiet, a passionate full-stack dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=blue)
-![Laravel](https://img.shields.io/badge/Laravel-339933?style=flat&logo=laravel.js&logoColor=red)
+![Laravel](https://img.shields.io/badge/Laravel-339933?style=flat&logo=laravel&logoColor=red)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
