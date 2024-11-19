@@ -1,10 +1,10 @@
-# Minh Kiet's GitHub Profile 🚀
+# Lai Minh Kiet's GitHub Profile 🚀
 
-Welcome to my GitHub playground! 👋 I'm Minh Kiet, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+Welcome to my GitHub playground! 👋 I'm Kiet, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
 ## 🚀 Quick Overview
 
-- 🔭 I work as a Full Stack Developer.
+- 🔭 I work as a Backend Developer.
 - 👯 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub playground! 👋 I'm Minh Kiet, a passionate full-stack dev
 
 ## 🌟 Let's Connect
 
-- [Facebook](https://www.facebook.com/laiminhkiet)
+- [Facebook](https://www.facebook.com/laiminhkiet2275)
 
 ## 📈 Profile Views
 
